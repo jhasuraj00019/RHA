@@ -1,7 +1,0 @@
-db.foodCall.insert([
-    {
-        "date":"8/3/2222",
-        "peopleServed":20,
-        "area":"Phulwari Sharif"
-    }
-])
